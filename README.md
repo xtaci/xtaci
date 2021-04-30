@@ -9,4 +9,4 @@ Projects I'm working on
 - 📫 [gonet](https://github.com/xtaci/gonet) - A Game Server Skeleton in golang.
 - 😄 [tcpraw](https://github.com/xtaci/tcpraw) - Sending packets through TCP
 - ⚡ [algorithms](https://github.com/xtaci/algorithms) - Algorithms & Data structures in C++.
-- [navmesh](https://github.com/xtaci/navmesh) - navigation mesh in golang
+- 🤖 [navmesh](https://github.com/xtaci/navmesh) - navigation mesh in golang
