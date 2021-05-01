@@ -10,6 +10,6 @@ Projects I'm working on
 - 😄 [tcpraw](https://github.com/xtaci/tcpraw) - Sending packets through TCP
 - ⚡ [algorithms](https://github.com/xtaci/algorithms) - Algorithms & Data structures in C++
 - 🤖 [navmesh](https://github.com/xtaci/navmesh) - Navigation mesh in golang
-- 🐈 [bdls](https://github.com/Sperax/bdls) - BDLS is an innovative BFT consensus algorithm
+- 🍇 [bdls](https://github.com/Sperax/bdls) - BDLS is an innovative BFT consensus algorithm
 - 🐕 [lossyconn](https://github.com/xtaci/lossyconn) - Lossy connection simulator
 - 🌷 [budda](https://github.com/xtaci/buddha) - 佛教资料汇集
