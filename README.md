@@ -15,4 +15,4 @@ Projects I'm working on
 - 🌷 [budda](https://github.com/xtaci/buddha) - Collection of Buddhist Materials
 - 💳 Donations Appreciated:
 
-Ethereum Account: 0xE53c93E9c23aC61B0fCF55fC639eE79B4ca11874                                                                                                                                                                                                                                        
+Ethereum Account: 0xE53c93E9c23aC61B0fCF55fC639eE79B4ca11874 [QR](https://github.com/xtaci/xtaci/blob/main/QR.png)
