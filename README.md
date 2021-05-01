@@ -12,4 +12,4 @@ Projects I'm working on
 - 🤖 [navmesh](https://github.com/xtaci/navmesh) - Navigation mesh in golang
 - 🍇 [bdls](https://github.com/Sperax/bdls) - BDLS is an innovative BFT consensus algorithm
 - 🐕 [lossyconn](https://github.com/xtaci/lossyconn) - Lossy connection simulator
-- 🌷 [budda](https://github.com/xtaci/buddha) - 佛教资料汇集
+- 🌷 [budda](https://github.com/xtaci/buddha) - Collection of Buddhist Materials
