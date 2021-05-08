@@ -13,7 +13,7 @@ Projects I'm working on
 - 🍇 [bdls](https://github.com/Sperax/bdls) - BDLS is an innovative BFT consensus algorithm
 - 🐕 [lossyconn](https://github.com/xtaci/lossyconn) - Lossy connection simulator
 - 🌷 [budda](https://github.com/xtaci/buddha) - Collection of Buddhist Materials
-- 💳 Donations Appreciated:
+- 💳 **Donations Appreciated**:
 
 Ethereum/BSC Account: **0xE53c93E9c23aC61B0fCF55fC639eE79B4ca11874**  
 [QR Code](https://raw.githubusercontent.com/xtaci/xtaci/main/QR.png)
