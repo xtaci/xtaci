@@ -22,4 +22,3 @@ Ethereum/BSC Account: **0xE53c93E9c23aC61B0fCF55fC639eE79B4ca11874**
 [QR Code](https://raw.githubusercontent.com/xtaci/xtaci/main/QR.png)
 
 Contact me: imap at live dot com
-![480ec4ad0781e5bc0d6447e5cd2ded1](https://user-images.githubusercontent.com/2346725/117522009-6ca32400-afe3-11eb-869f-f4b0d0fec289.jpg)
