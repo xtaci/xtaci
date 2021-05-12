@@ -21,7 +21,7 @@ Projects I'm working on:
 Ethereum/BSC Account: **0xE53c93E9c23aC61B0fCF55fC639eE79B4ca11874**  
 [QR Code](https://raw.githubusercontent.com/xtaci/xtaci/main/QR.png)
 
-WeChat: [QR Code](https://user-images.githubusercontent.com/2346725/117953725-e2dbb980-b348-11eb-8b08-adea0f2fcfc0.jpg)
+WeChat/微信: [QR Code](https://user-images.githubusercontent.com/2346725/117953725-e2dbb980-b348-11eb-8b08-adea0f2fcfc0.jpg)
 
 
 Contact me: imap at live dot com
