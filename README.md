@@ -3,7 +3,7 @@
 Projects I'm working on:
 
 - 🔭 [gaio](https://github.com/xtaci/gaio) - High performance async-io(proactor) networking for Golang
-- 🌱 [safebox](https://github.com/xtaci/safebox) - A Independent key management system, one key to derive all
+- 🌱 [safebox](https://github.com/xtaci/safebox) - A key management TUI tool for blockchain and others, one key to derive all
 - 📫 [gonet](https://github.com/xtaci/gonet) - A Game Server Skeleton in golang
 - 😄 [tcpraw](https://github.com/xtaci/tcpraw) - Sending packets through TCP
 - ⚡ [algorithms](https://github.com/xtaci/algorithms) - Algorithms & Data structures in C++
