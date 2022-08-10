@@ -8,7 +8,7 @@ Projects I'm working on:
 - 😄 [tcpraw](https://github.com/xtaci/tcpraw) - Sending packets through TCP
 - ⚡ [algorithms](https://github.com/xtaci/algorithms) - Algorithms & Data structures in C++
 - 🤖 [navmesh](https://github.com/xtaci/navmesh) - Navigation mesh in golang
-- 🍇 [bdls](https://github.com/Sperax/bdls) - BDLS is an innovative BFT consensus algorithm
+- 🍇 [bdls](https://github.com/xtaci/bdls) - BDLS is an innovative BFT consensus algorithm
 - 🐕 [lossyconn](https://github.com/xtaci/lossyconn) - Lossy connection simulator
 - 💬 [smux](https://github.com/xtaci/smux) - A Stream Multiplexing Library for golang with least memory usage
 - 👯 [kcp-go](https://github.com/xtaci/kcp-go) - A Crypto-Secure, Production-Grade Reliable-UDP Library for golang with FEC
