@@ -13,7 +13,7 @@ Projects I'm working on:
 - 💬 [smux](https://github.com/xtaci/smux) - A Stream Multiplexing Library for golang with least memory usage
 - 👯 [kcp-go](https://github.com/xtaci/kcp-go) - A Crypto-Secure, Production-Grade Reliable-UDP Library for golang with FEC
 - 🤔 [kcptun](https://github.com/xtaci/kcptun) - A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64
-- 🌷 [budda](https://github.com/xtaci/buddha) - Collection of Buddhist Materials
+- 🈳️ [budda](https://github.com/xtaci/buddha) - Collection of Buddhist Materials
 
 
 💳 **Donations Are Appreciated**:
