@@ -14,6 +14,7 @@ Projects I'm working on:
 - 👯 [kcp-go](https://github.com/xtaci/kcp-go) - A Crypto-Secure, Production-Grade Reliable-UDP Library for golang with FEC.
 - 🤔 [kcptun](https://github.com/xtaci/kcptun) - A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64.
 - 🈳️ [budda](https://github.com/xtaci/buddha) - My personal collection of Buddhist materials.
+- 📐 [algebra](https://github.com/xtaci/algebra) - My learning notes on algebra.
 
 
 💳 **Donations Are Appreciated**:
