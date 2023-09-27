@@ -16,10 +16,4 @@ Projects I'm working on:
 - 🈳️ [budda](https://github.com/xtaci/buddha) - My personal collection of Buddhist materials.
 - 📐 [algebra](https://github.com/xtaci/algebra) - My learning notes on $\mathnormal{algebra}$.
 
-💳 **Donations Are Appreciated**:
-
-* WeChat/微信: [QR Code](https://user-images.githubusercontent.com/2346725/117953725-e2dbb980-b348-11eb-8b08-adea0f2fcfc0.jpg)
-* Ethereum/BSC Account: **0xE53c93E9c23aC61B0fCF55fC639eE79B4ca11874**  [QR Code](https://raw.githubusercontent.com/xtaci/xtaci/main/QR.png)
-
-
 📧 Contact me: imap at live dot com
