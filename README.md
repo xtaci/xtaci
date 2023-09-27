@@ -17,3 +17,6 @@ Projects I'm working on:
 - 📐 [algebra](https://github.com/xtaci/algebra) - My learning notes on $\mathnormal{algebra}$.
 
 📧 Contact me: imap at live dot com
+
+🏫 [UESTC](https://www.uestc.edu.cn/)(BA), [HKPolyU](https://www.polyu.edu.hk/)(MSc)
+
