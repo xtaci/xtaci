@@ -15,6 +15,7 @@ Projects I'm working on:
 - 📫 [gonet](https://github.com/xtaci/gonet) - A fancy game server skeleton in golang.
 - 🈳️ [budda](https://github.com/xtaci/buddha) - My personal collection of Buddhist materials.
 - 📐 [algebra](https://github.com/xtaci/algebra) - My learning notes on $\mathnormal{algebra}$.
+- ✳ [qpp](https://github.com/xtaci/qpp) - Quantum Permutation Pad in golang(WIP).
 
 📧 Contact me: imap at live dot com
 
