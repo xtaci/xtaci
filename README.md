@@ -6,7 +6,7 @@ Projects I'm working on:
 - 🛡️ [safebox](https://github.com/xtaci/safebox) - A retro key management TUI tool for blockchain and others, one key to derive all.
 - 💬 [smux](https://github.com/xtaci/smux) - A Stream Multiplexing Library for golang with least memory usage.
 - 👯 [kcp-go](https://github.com/xtaci/kcp-go) - A Crypto-Secure, Production-Grade $Reliable-UDP$ Library for golang with FEC.
-- ⚡ [kcptun](https://github.com/xtaci/kcptun) - A Stable & Quantum Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64.
+- ⚡ [kcptun](https://github.com/xtaci/kcptun) - A Stable & Quantum Secure Tunnel based on KCP with N:M multiplexing and FEC.
 - ⚛️ [algorithms](https://github.com/xtaci/algorithms) - $Algorithms$ & Data structures in C++.
 - 🤝 [bdls](https://github.com/xtaci/bdls) - Initial implementation of BDLS $BFT$ $consensus$ algorithm, now integrated in https://labs.hyperledger.org/labs/bdls.html .
 - 🐕 [lossyconn](https://github.com/xtaci/lossyconn) - Lossy connection simulator.
