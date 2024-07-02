@@ -8,7 +8,7 @@ Projects I'm working on:
 - 👯 [kcp-go](https://github.com/xtaci/kcp-go) - A Crypto-Secure, Production-Grade $Reliable-UDP$ Library for golang with FEC.
 - ⚡ [kcptun](https://github.com/xtaci/kcptun) - A Stable & Quantum Secure Tunnel based on KCP with N:M multiplexing and FEC.
 - ⚛️ [algorithms](https://github.com/xtaci/algorithms) - $Algorithms$ & Data structures in C++.
-- 🤝 [bdls](https://github.com/xtaci/bdls) - Initial implementation of BDLS $BFT$ $consensus$ algorithm, now integrated in https://labs.hyperledger.org/labs/bdls.html .
+- 🤝 [bdls](https://github.com/xtaci/bdls) - Initial implementation of BDLS $BFT$ $consensus$ algorithm, now integrated in [hyperledger](https://github.com/hyperledger-labs/bdls) .
 - 🐕 [lossyconn](https://github.com/xtaci/lossyconn) - Lossy connection simulator.
 - 😄 [tcpraw](https://github.com/xtaci/tcpraw) - Sending packets through TCP.
 - 🤖 [navmesh](https://github.com/xtaci/navmesh) - Navigation mesh in golang.
