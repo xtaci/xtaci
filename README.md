@@ -3,7 +3,7 @@
 Projects I'm working on:
 
 - ⚙️ [gaio](https://github.com/xtaci/gaio) - High performance async-io(proactor) networking for Golang.
-- 💬 [smux](https://github.com/xtaci/smux) - A atream multiplexing library for golang with least memory usage.
+- 💬 [smux](https://github.com/xtaci/smux) - A stream multiplexing library for golang with least memory usage.
 - 👯 [kcp-go](https://github.com/xtaci/kcp-go) - A crypto-secure $Reliable-UDP$ library for golang with FEC.
 - ⚡ [kcptun](https://github.com/xtaci/kcptun) - A quantum secure tunnel based on [QPP](https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-022-00145-y), [KCP](https://github.com/xtaci/kcp-go), [FEC](https://en.wikipedia.org/wiki/Reed%E2%80%93Solomon_error_correction), and [N:M multiplexing](https://github.com/xtaci/smux).
 - ✳ [qpp](https://github.com/xtaci/qpp) - [Quantum Permutation Pad](https://link.springer.com/article/10.1007/s11128-022-03557-y) implementation in golang.
