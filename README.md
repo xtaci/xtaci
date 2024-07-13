@@ -22,7 +22,7 @@ Projects I'm working on:
 - ⚛️ [algorithms](https://github.com/xtaci/algorithms) - $Algorithms$ and $Data$ structures in C++.
 
 #### Education
-🏫 [UESTC](https://www.uestc.edu.cn/)(BA), [HKPolyU](https://www.polyu.edu.hk/)(MSc)
+🏫 [UESTC](https://www.uestc.edu.cn/)(BA) | [HKPolyU](https://www.polyu.edu.hk/)(MSc)
 
 #### Contact me
 📧 imap at live dot com
