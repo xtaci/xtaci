@@ -11,7 +11,7 @@ Projects I'm working on:
 - ✳ [qpp](https://github.com/xtaci/qpp) - [Quantum Permutation Pad](https://link.springer.com/article/10.1007/s11128-022-03557-y) implementation in golang. $\sigma = (1\ 2\ 3)(4\ 5)...(128\ 255)$
 - 🪂 [dppk](https://github.com/xtaci/dppk) - A deterministic polynomial Public Key [KEM](https://en.wikipedia.org/wiki/Key_encapsulation_mechanism) algorithm over a prime Galois Field GF(p). [(paper)](https://www.researchgate.net/profile/Randy-Kuang/publication/358101087_A_Deterministic_Polynomial_Public_Key_Algorithm_over_a_Prime_Galois_Field_GFp/links/61f95ff44393577abe055af7/A-Deterministic-Polynomial-Public-Key-Algorithm-over-a-Prime-Galois-Field-GFp.pdf)
 - 🐇 [hppk](https://github.com/xtaci/hppk) - A Homomorphic Polynomial Public Key ([HPPK](https://arxiv.org/pdf/2402.01852)) for Key Encapsulation Mechanism (KEM) and Digital Signatures (DS)
-- 🤝 [bdls](https://github.com/xtaci/bdls) - Initial implementation of BDLS $BFT$ $consensus$ algorithm, now integrated in [hyperledger](https://github.com/hyperledger-labs/bdls) .
+- 🤝 [bdls](https://github.com/xtaci/bdls) - Initial PoC implementation of BDLS $BFT$ $consensus$ algorithm, now integrated in [hyperledger](https://github.com/hyperledger-labs/bdls) .
 - 🛡️ [safebox](https://github.com/xtaci/safebox) - A retro key management TUI tool for blockchain and others, one key to derive all.
 - 🐕 [lossyconn](https://github.com/xtaci/lossyconn) - Lossy connection simulator.
 - 😄 [tcpraw](https://github.com/xtaci/tcpraw) - Sending packets through TCP.
