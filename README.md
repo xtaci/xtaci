@@ -1,5 +1,5 @@
-**Starting MS-DOS: 👋😸😻 にゃあ** 
-> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"Tribute to Galois and Shannon"
+**Starting MS-DOS: 👋😸😻 にゃあ** \
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; $${\color{gray}Tribute\ to\ Galois\ and\ Shannon}$$
 
 **A:¥>DIR SRC** &lhblk;\
 &nbsp;Volume in drive A is xtaci.\
@@ -31,4 +31,4 @@
 [.]&emsp;&emsp;[..]&emsp;&emsp;[UESTC](https://www.uestc.edu.cn/)(BA)&emsp;&emsp;[HKPolyU](https://www.polyu.edu.hk/)(MSc)
 
 **A:¥>TYPE MAIL.TXT** &lhblk; \
-IMAP AT LIVE DOT COM
+```IMAP AT LIVE DOT COM```
