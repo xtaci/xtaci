@@ -3,9 +3,9 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; $${\color{gray}Tribute\ to\ Galois\ and\ Shannon}$$
 
 **A:¥>DIR SRC** &lhblk;\
-&nbsp;Volume in drive A is FU \
-&nbsp;Volume Serial Number is 87DC-99D0 \
-&nbsp;Directory of A:¥SRC
+&emsp;Volume in drive A is FU \
+&emsp;Volume Serial Number is 87DC-99D0 \
+&emsp;Directory of A:¥SRC
  
 - ⚙️ [gaio](https://github.com/xtaci/gaio) - High performance async-io(proactor) networking for Golang.
 - 💬 [smux](https://github.com/xtaci/smux) - A stream multiplexing library for golang with least memory usage.
