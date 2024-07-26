@@ -1,12 +1,11 @@
-### boot: 👋😸😻 にゃあ
+Starting MS-DOS: 👋😸😻 にゃあ \
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"Tribute to Galois and Shannon"
 
-> "Tribute to Galois and Shannon"
-
-**C:\\>dir go** \
-&nbsp;Volume in drive C is OS.\
+A:¥> DIR SRC &lhblk;\
+&nbsp;Volume in drive A is xtaci.\
 &nbsp;Volume Serial Number is 87DC-99D0
 
-&nbsp;**Directory of C:\go**
+&nbsp;Directory of A:¥GO
  
 - ⚙️ [gaio](https://github.com/xtaci/gaio) - High performance async-io(proactor) networking for Golang.
 - 💬 [smux](https://github.com/xtaci/smux) - A stream multiplexing library for golang with least memory usage.
@@ -26,9 +25,9 @@
 - ⚛️ [algorithms](https://github.com/xtaci/algorithms) - $Algorithms$ and $Data$ structures in C++.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;0 File(s)&emsp;&emsp;&emsp;&emsp;&nbsp;0 bytes\
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;16 Dir(s)&emsp;&emsp;&emsp;&emsp;380,664,582,144 bytes free
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;16 Dir(s)&emsp;&emsp;&emsp;&emsp;1024 bytes free
 
-#### C:\\> dir education
+A:¥> DIR EDUCATION &lhblk;
 - [UESTC](https://www.uestc.edu.cn/)(BA) 
 - [HKPolyU](https://www.polyu.edu.hk/)(MSc)
 
