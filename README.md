@@ -1,7 +1,7 @@
-Starting MS-DOS: 👋😸😻 にゃあ \
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"Tribute to Galois and Shannon"
+**Starting MS-DOS: 👋😸😻 にゃあ** 
+> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"Tribute to Galois and Shannon"
 
-A:¥>DIR SRC &lhblk;\
+**A:¥>DIR SRC** &lhblk;\
 &nbsp;Volume in drive A is xtaci.\
 &nbsp;Volume Serial Number is 87DC-99D0
 
@@ -27,9 +27,8 @@ A:¥>DIR SRC &lhblk;\
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;0 File(s)&emsp;&emsp;&emsp;&emsp;&nbsp;0 bytes\
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;16 Dir(s)&emsp;&emsp;&emsp;&emsp;1024 bytes free
 
-A:¥>DIR EDUCATION &lhblk;
-- [UESTC](https://www.uestc.edu.cn/)(BA) 
-- [HKPolyU](https://www.polyu.edu.hk/)(MSc)
+**A:¥>DIR/W EDU** &lhblk; \
+[.]&emsp;&emsp;[..]&emsp;&emsp;[UESTC](https://www.uestc.edu.cn/)(BA)&emsp;&emsp;[HKPolyU](https://www.polyu.edu.hk/)(MSc)
 
-A:¥>TYPE MAIL.TXT &lhblk; \
+**A:¥>TYPE MAIL.TXT** &lhblk; \
 IMAP AT LIVE DOT COM
