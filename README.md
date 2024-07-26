@@ -1,9 +1,13 @@
-### Hi there 👋😸😻 にゃあ
+### boot: 👋😸😻 にゃあ
 
-("Tribute to Galois and Shannon")
+> "Tribute to Galois and Shannon"
 
-Projects I'm working on:
+C:\go\> dir \
+&nbsp;Volume in drive C is OS.\
+&nbsp;Volume Serial Number is 87DC-99D0
 
+&nbsp;Directory of C:\\go
+ 
 - ⚙️ [gaio](https://github.com/xtaci/gaio) - High performance async-io(proactor) networking for Golang.
 - 💬 [smux](https://github.com/xtaci/smux) - A stream multiplexing library for golang with least memory usage.
 - 👯 [kcp-go](https://github.com/xtaci/kcp-go) - A crypto-secure $Reliable-UDP$ library for golang with FEC.
@@ -21,8 +25,11 @@ Projects I'm working on:
 - 📐 [algebra](https://github.com/xtaci/algebra) - My learning notes on $\mathnormal{algebra}$. Tribute to Galois￥￥
 - ⚛️ [algorithms](https://github.com/xtaci/algorithms) - $Algorithms$ and $Data$ structures in C++.
 
-#### Education
+&emsp;&emsp;&emsp;&emsp;0 File(s)&emsp;&emsp;&emsp;&emsp;0 bytes\
+&emsp;&emsp;&emsp;&emsp;16 Dir(s)&emsp;&emsp;&emsp;&emsp;380,664,582,144 bytes free
+
+#### make education
 🏫 [UESTC](https://www.uestc.edu.cn/)(BA) | [HKPolyU](https://www.polyu.edu.hk/)(MSc)
 
-#### Contact me
+#### mailto://
 📧 imap at live dot com
