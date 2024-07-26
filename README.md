@@ -2,11 +2,11 @@
 
 > "Tribute to Galois and Shannon"
 
-C:\go\> dir \
-&nbsp;Volume in drive C is OS.\
-&nbsp;Volume Serial Number is 87DC-99D0
+**C:\go**\> **dir** \
+&nbsp;**Volume in drive C is OS.**\
+&nbsp;**Volume Serial Number is 87DC-99D0**
 
-&nbsp;Directory of C:\\go
+&nbsp;**Directory of C:\go**
  
 - ⚙️ [gaio](https://github.com/xtaci/gaio) - High performance async-io(proactor) networking for Golang.
 - 💬 [smux](https://github.com/xtaci/smux) - A stream multiplexing library for golang with least memory usage.
@@ -25,11 +25,11 @@ C:\go\> dir \
 - 📐 [algebra](https://github.com/xtaci/algebra) - My learning notes on $\mathnormal{algebra}$. Tribute to Galois￥￥
 - ⚛️ [algorithms](https://github.com/xtaci/algorithms) - $Algorithms$ and $Data$ structures in C++.
 
-&emsp;&emsp;&emsp;&emsp;0 File(s)&emsp;&emsp;&emsp;&emsp;0 bytes\
-&emsp;&emsp;&emsp;&emsp;16 Dir(s)&emsp;&emsp;&emsp;&emsp;380,664,582,144 bytes free
+&emsp;&emsp;&emsp;&emsp;**0 File(s)**&emsp;&emsp;&emsp;&emsp;&nbsp;**0 bytes**\
+&emsp;&emsp;&emsp;&emsp;**16 Dir(s)**&emsp;&emsp;&emsp;&emsp;**380,664,582,144 bytes free**
 
-#### make education
-🏫 [UESTC](https://www.uestc.edu.cn/)(BA) | [HKPolyU](https://www.polyu.edu.hk/)(MSc)
+#### C:\\> dir education
+- [UESTC](https://www.uestc.edu.cn/)(BA) 
+- [HKPolyU](https://www.polyu.edu.hk/)(MSc)
 
-#### mailto://
-📧 imap at live dot com
+📭 imap at live dot com
