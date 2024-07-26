@@ -2,9 +2,9 @@
 
 > "Tribute to Galois and Shannon"
 
-**C:\go**\> **dir** \
-&nbsp;**Volume in drive C is OS.**\
-&nbsp;**Volume Serial Number is 87DC-99D0**
+**C:\\>dir go** \
+&nbsp;Volume in drive C is OS.\
+&nbsp;Volume Serial Number is 87DC-99D0
 
 &nbsp;**Directory of C:\go**
  
@@ -25,8 +25,8 @@
 - 📐 [algebra](https://github.com/xtaci/algebra) - My learning notes on $\mathnormal{algebra}$. Tribute to Galois￥￥
 - ⚛️ [algorithms](https://github.com/xtaci/algorithms) - $Algorithms$ and $Data$ structures in C++.
 
-&emsp;&emsp;&emsp;&emsp;**0 File(s)**&emsp;&emsp;&emsp;&emsp;&nbsp;**0 bytes**\
-&emsp;&emsp;&emsp;&emsp;**16 Dir(s)**&emsp;&emsp;&emsp;&emsp;**380,664,582,144 bytes free**
+&emsp;&emsp;&emsp;&emsp;0 File(s)&emsp;&emsp;&emsp;&emsp;&nbsp;0 bytes\
+&emsp;&emsp;&emsp;&emsp;16 Dir(s)&emsp;&emsp;&emsp;&emsp;380,664,582,144 bytes free
 
 #### C:\\> dir education
 - [UESTC](https://www.uestc.edu.cn/)(BA) 
