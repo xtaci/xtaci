@@ -2,7 +2,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; $${\color{gray}Tribute\ to\ Galois\ and\ Shannon}$$
 
 **A:¥>DIR SRC** &lhblk;\
-&nbsp;Volume in drive A is xtaci.\
+&nbsp;Volume in drive A is FU.\
 &nbsp;Volume Serial Number is 87DC-99D0
 
 &nbsp;Directory of A:¥SRC
