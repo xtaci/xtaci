@@ -31,4 +31,4 @@
 [.]&emsp;&emsp;[..]&emsp;&emsp;[UESTC](https://www.uestc.edu.cn/)(BA)&emsp;&emsp;[HKPolyU](https://www.polyu.edu.hk/)(MSc)
 
 **A:¥>TYPE MAIL.TXT** &lhblk; \
-```IMAP AT LIVE DOT COM```
+; IMAP AT LIVE DOT COM 
