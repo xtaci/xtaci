@@ -1,4 +1,5 @@
-**Starting MS-DOS: 👋😸😻 にゃあ** \
+**RAM OK** &lhblk;\
+**Starting MS-DOS: 👋🐈😻 にゃあ** \
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; $${\color{gray}Tribute\ to\ Galois\ and\ Shannon}$$
 
 **A:¥>DIR SRC** &lhblk;\
