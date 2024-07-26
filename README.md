@@ -28,7 +28,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;16 Dir(s)&emsp;&emsp;&emsp;&emsp;1024 bytes free
 
 **A:¥>DIR/W EDU** &lhblk; \
-[.]&emsp;&emsp;[..]&emsp;&emsp;[UESTC](https://www.uestc.edu.cn/)(BA)&emsp;&emsp;[HKPolyU](https://www.polyu.edu.hk/)(MSc)
+&emsp;[.]&emsp;&emsp;&emsp;&emsp;[..]&emsp;&emsp;&emsp;&emsp;[UESTC](https://www.uestc.edu.cn/).BA&emsp;&emsp;&emsp;&emsp;[HKPolyU](https://www.polyu.edu.hk/).MSc
 
 **A:¥>TYPE MAIL.TXT** &lhblk; \
 ; IMAP AT LIVE DOT COM 
