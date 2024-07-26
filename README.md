@@ -1,7 +1,7 @@
 Starting MS-DOS: 👋😸😻 にゃあ \
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"Tribute to Galois and Shannon"
 
-A:¥> DIR SRC &lhblk;\
+A:¥>DIR SRC &lhblk;\
 &nbsp;Volume in drive A is xtaci.\
 &nbsp;Volume Serial Number is 87DC-99D0
 
@@ -27,8 +27,9 @@ A:¥> DIR SRC &lhblk;\
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;0 File(s)&emsp;&emsp;&emsp;&emsp;&nbsp;0 bytes\
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;16 Dir(s)&emsp;&emsp;&emsp;&emsp;1024 bytes free
 
-A:¥> DIR EDUCATION &lhblk;
+A:¥>DIR EDUCATION &lhblk;
 - [UESTC](https://www.uestc.edu.cn/)(BA) 
 - [HKPolyU](https://www.polyu.edu.hk/)(MSc)
 
-📭 imap at live dot com
+A:¥>TYPE MAIL.TXT &lhblk; \
+IMAP AT LIVE DOT COM
