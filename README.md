@@ -20,7 +20,7 @@ Starting MS-DOS... 👋🐈😻 にゃあ \
 - 😄 [tcpraw](https://github.com/xtaci/tcpraw) - Sending packets through TCP.
 - 🤖 [navmesh](https://github.com/xtaci/navmesh) - Navigation mesh in golang.
 - 📫 [gonet](https://github.com/xtaci/gonet) - A fancy game server skeleton in golang.
-- 🈳️ [budda](https://github.com/xtaci/buddha) - My personal collection of Buddhist materials.
+- 🈳️ [budda](https://github.com/xtaci/buddha) - ☸️ My personal collection of Buddhist materials.📿 
 - 📐 [algebra](https://github.com/xtaci/algebra) - My learning notes on $\mathnormal{algebra}$. Tribute to Galois￥￥
 - ⚛️ [algorithms](https://github.com/xtaci/algorithms) - $Algorithms$ and $Data$ structures in C++.
 
