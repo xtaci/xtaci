@@ -1,6 +1,6 @@
 **00640 KB OK** &lhblk;\
-**Starting MS-DOS... 👋🐈😻 にゃあ** \
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; $${\color{gray}🌹Tribute\ to\ Galois\ and\ Shannon🌹}$$
+Starting MS-DOS... 👋🐈😻 にゃあ \
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; $${\color{gray}\~🌹Hommage\ à\ Galois\ et\ Shannon🌹 \~}$$
 
 **A:¥>DIR SRC** &lhblk;\
 &emsp;Volume in drive A is FU \
