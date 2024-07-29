@@ -30,5 +30,5 @@ Starting MS-DOS... 👋🐈😻 にゃあ \
 **A:¥>DIR/W EDU** &lhblk; \
 &emsp;[.]&emsp;&emsp;&emsp;&emsp;[[..]](https://github.com/xtaci/xtaci/issues/1)&emsp;&emsp;&emsp;&emsp;[UESTC.BEng](https://www.uestc.edu.cn/)&emsp;&emsp;&emsp;&emsp;[HKPolyU.MSc](https://www.polyu.edu.hk/)
 
-*\*A:¥>TYPE MAIL.TXT** &lhblk; \
+**A:¥>TYPE MAIL.TXT** &lhblk; \
 ; IMAP AT LIVE DOT COM 
