@@ -7,7 +7,7 @@ Starting MS-DOS... 👋🐈😻 にゃあ \
 &emsp;Volume Serial Number is 1982-2024 \
 &emsp;Directory of **A:¥SRC**
  
-- ⚙️ [gaio](https://github.com/xtaci/gaio) - High performance async-io(proactor) networking for Golang.
+- ⚙️ [gaio](https://github.com/xtaci/gaio) - High performance minimalism async-io(proactor) networking for Golang.
 - 💬 [smux](https://github.com/xtaci/smux) - A stream multiplexing library for golang with least memory usage.
 - 👯 [kcp-go](https://github.com/xtaci/kcp-go) - A crypto-secure $Reliable-UDP$ library for golang with FEC.
 - ⚡ [kcptun](https://github.com/xtaci/kcptun) - A quantum-safe secure tunnel based on [QPP](https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-022-00145-y), [KCP](https://github.com/xtaci/kcp-go), [FEC](https://en.wikipedia.org/wiki/Reed%E2%80%93Solomon_error_correction), and [N:M multiplexing](https://github.com/xtaci/smux). 
