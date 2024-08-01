@@ -1,5 +1,5 @@
 **0064[0](https://news.ycombinator.com/item?id=18120477) KB OK** &lhblk;\
-Starting MS-DOS... 👋🐈😻 にゃあ \
+Starting MS-D[O](https://github.com/microsoft/MS-DOS)S... 👋🐈😻 にゃあ \
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; $${\color{gray}\~🌹Hommage\ à\ Galois\ et\ Shannon🌹 \~}$$
 
 **A:¥>DIR SRC** &lhblk;\
