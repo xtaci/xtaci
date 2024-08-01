@@ -1,10 +1,10 @@
-**00640 KB OK** &lhblk;\
+**0064[0](https://news.ycombinator.com/item?id=18120477) KB OK** &lhblk;\
 Starting MS-DOS... 👋🐈😻 にゃあ \
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; $${\color{gray}\~🌹Hommage\ à\ Galois\ et\ Shannon🌹 \~}$$
 
 **A:¥>DIR SRC** &lhblk;\
 &emsp;Volume in drive A is FU \
-&emsp;Volume Serial Number is 1982-2024 \
+&emsp;Volume Serial Number is 1982-[8086](https://en.wikipedia.org/wiki/Intel_8086) \
 &emsp;Directory of **A:¥SRC**
  
 - ⚙️ [gaio](https://github.com/xtaci/gaio) - High performance minimalism async-io(proactor) networking for Golang.
