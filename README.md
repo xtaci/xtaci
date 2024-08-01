@@ -21,7 +21,7 @@ Starting MS-DOS... 👋🐈😻 にゃあ \
 - 🤖 [navmesh](https://github.com/xtaci/navmesh) - Navigation mesh in golang.
 - 📫 [gonet](https://github.com/xtaci/gonet) - A fancy game server skeleton in golang.
 - 🈳️ [budda](https://github.com/xtaci/buddha) - ☸️ My personal collection of Buddhist materials.📿 
-- 📐 [algebra](https://github.com/xtaci/algebra) - My learning notes on $\mathnormal{algebra}$. Tribute to Galois￥￥
+- 📐 [algebra](https://github.com/xtaci/algebra) - My learning notes on $\mathnormal{algebra}$. Tribute to [Galois](https://en.wikipedia.org/wiki/%C3%89variste_Galois)￥￥
 - ⚛️ [algorithms](https://github.com/xtaci/algorithms) - $Algorithms$ and $Data$ structures in C++.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;0 File(s)&emsp;&emsp;&emsp;&emsp;&nbsp;0 bytes\
