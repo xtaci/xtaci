@@ -1,7 +1,6 @@
 **0064[0](https://news.ycombinator.com/item?id=18120477) KB OK** &lhblk;\
 Starting MS-D[O](https://github.com/microsoft/MS-DOS)S... 👋🐈😻 にゃあ \
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; $${\color{gray}\~🌹Hommage\ à\ Galois\ et\ Shannon🌹 \~}$$
-
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; $${\color{gray}\~🌹Hommage\ à\ Galois\ et\ Shannon🌹 \~}$$\
 **A:¥>DIR SRC** &lhblk;\
 &emsp;Volume in drive A is FU \
 &emsp;Volume Serial Number is 1982-[8086](https://en.wikipedia.org/wiki/Intel_8086) \
