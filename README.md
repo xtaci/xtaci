@@ -20,7 +20,7 @@ Starting MS-D[O](https://github.com/microsoft/MS-DOS)S... 👋🐈😻 にゃあ
 &emsp;&emsp;🐇 [hppk](https://github.com/xtaci/hppk) - A homomorphic polynomial Public Key [KEM](https://en.wikipedia.org/wiki/Key_encapsulation_mechanism) and Digital Signature([DS](https://en.wikipedia.org/wiki/Digital_signature)). ([PQC](https://en.wikipedia.org/wiki/Post-quantum_cryptography))\
 &emsp;&emsp;🪂 [dppk](https://github.com/xtaci/dppk) - A deterministic polynomial Public Key [KEM](https://en.wikipedia.org/wiki/Key_encapsulation_mechanism) algorithm over a prime [Galois Field](https://en.wikipedia.org/wiki/Finite_field) GF(p). ([PQC](https://en.wikipedia.org/wiki/Post-quantum_cryptography)) \
 &emsp;&emsp;🛡️ [safebox](https://github.com/xtaci/safebox) - A retro key management TUI tool for blockchain and others, one key to derive all.\
-&emsp;**🟩ETC**\
+&emsp;**🟩未分類**\
 &emsp;&emsp;📫 [gonet](https://github.com/xtaci/gonet) - A fancy game server skeleton in golang.\
 &emsp;&emsp;🈳️ [budda](https://github.com/xtaci/buddha) - ☸️ My personal collection of Buddhist materials.📿 \
 &emsp;&emsp;📐 [algebra](https://github.com/xtaci/algebra) - My learning notes on $\mathnormal{algebra}$. Tribute to [Galois](https://en.wikipedia.org/wiki/%C3%89variste_Galois)￥￥\
