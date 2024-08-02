@@ -10,11 +10,11 @@ Starting MS-D[O](https://github.com/microsoft/MS-DOS)S... 👋🐈😻 にゃあ
 &emsp;**[ NETWORKING ]**\
 &emsp;⚙️ [gaio](https://github.com/xtaci/gaio) - High performance minimalism async-io(proactor) networking for Golang.\
 &emsp;💬 [smux](https://github.com/xtaci/smux) - A stream multiplexing library for golang with least memory usage.\
-&emsp;👯 [kcp-go](https://github.com/xtaci/kcp-go) - A crypto-secure $Reliable-UDP$ library for golang with FEC.\
+&emsp;👯 [kcp-go](https://github.com/xtaci/kcp-go) - A crypto-secure _**Reliable-UDP**_ library for golang with FEC.\
 &emsp;⚡ [kcptun](https://github.com/xtaci/kcptun) - A quantum-safe secure tunnel based on [QPP](https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-022-00145-y), [KCP](https://github.com/xtaci/kcp-go), [FEC](https://en.wikipedia.org/wiki/Reed%E2%80%93Solomon_error_correction), and [N:M multiplexing](https://github.com/xtaci/smux).\
-&emsp;🤝 [bdls](https://github.com/xtaci/bdls) - Initial PoC implementation of BDLS $BFT$ $consensus$ algorithm, now integrated in [hyperledger](https://github.com/hyperledger-labs/bdls) .\
+&emsp;🤝 [bdls](https://github.com/xtaci/bdls) - Initial PoC implementation of BDLS [BFT Consensus](https://en.wikipedia.org/wiki/Byzantine_fault) algorithm, now integrated in [hyperledger](https://github.com/hyperledger-labs/bdls) .\
 &emsp;🐕 [lossyconn](https://github.com/xtaci/lossyconn) - Lossy connection simulator.\
-&emsp;😄 [tcpraw](https://github.com/xtaci/tcpraw) - Sending packets through TCP.\
+&emsp;😄 [tcpraw](https://github.com/xtaci/tcpraw) - Sending packets through TCP.
 
 &emsp;**[ CRYPTOGRAPHY ]**\
 &emsp;✳ [qpp](https://github.com/xtaci/qpp) - [Quantum Permutation Pad](https://link.springer.com/article/10.1007/s11128-022-03557-y) implementation in golang. $\sigma = (1\ 2\ 3)(4\ 5)...(128\ 255)$ ([PQC](https://en.wikipedia.org/wiki/Post-quantum_cryptography)) \
