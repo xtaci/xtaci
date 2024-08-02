@@ -28,7 +28,7 @@ Starting MS-D[O](https://github.com/microsoft/MS-DOS)S... 👋🐈😻 にゃあ
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;16 Dir(s)&emsp;&emsp;&emsp;&emsp;1024 bytes free
 
 **A:¥>DIR/W EDU** &lhblk; \
-&emsp;[.]&emsp;&emsp;&emsp;&emsp;[..]&emsp;&emsp;&emsp;&emsp;[[UESTC.BEng]](https://www.uestc.edu.cn/)&emsp;&emsp;&emsp;&emsp;[[HKPolyU.MSc]](https://www.polyu.edu.hk/)&emsp;&emsp;&emsp;&emsp;[[COFFEE]](https://github.com/xtaci/xtaci/issues/1)
+&emsp;[.]&emsp;&emsp;&emsp;&emsp;[..]&emsp;&emsp;&emsp;&emsp;[[UESTC.BEng]](https://www.uestc.edu.cn/)&emsp;&emsp;&emsp;&emsp;[[HKPolyU.MSc]](https://www.polyu.edu.hk/)&emsp;&emsp;&emsp;&emsp;[[COFFEE]](https://github.com/xtaci/xtaci/issues/2)
 
 **A:¥>TYPE MAIL.TXT** &lhblk; \
 ; IMAP AT LIVE DOT COM 
