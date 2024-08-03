@@ -6,7 +6,7 @@ Starting MS-D[O](https://github.com/microsoft/MS-DOS)S... 👋🐈😻 にゃあ
 &emsp;Volume Serial Number is 1982-[8086](https://en.wikipedia.org/wiki/Intel_8086) \
 &emsp;Directory of **A:¥SRC**
 
-&emsp;🟥 _**NETWORKING**_\
+&emsp;🟥 **NETWORKING**\
 &emsp;&emsp;⚙️ [gaio](https://github.com/xtaci/gaio) - High performance minimalism async-io([proactor](https://en.wikipedia.org/wiki/Proactor_pattern)) networking for Golang.\
 &emsp;&emsp;💬 [smux](https://github.com/xtaci/smux) - A [stream multiplexing](https://en.wikipedia.org/wiki/Multiplexing) library for golang with least memory usage.\
 &emsp;&emsp;👥 [kcp-go](https://github.com/xtaci/kcp-go) - A crypto-secure _**Reliable-UDP**_ library for golang with FEC.\
@@ -16,13 +16,13 @@ Starting MS-D[O](https://github.com/microsoft/MS-DOS)S... 👋🐈😻 にゃあ
 &emsp;&emsp;🐕 [lossyconn](https://github.com/xtaci/lossyconn) - Lossy connection simulator.\
 &emsp;&emsp;😄 [tcpraw](https://github.com/xtaci/tcpraw) - Sending packets through TCP.
 
-&emsp;🟦 _**CRYPTOGRAPHY**_\
+&emsp;🟦 **CRYPTOGRAPHY**\
 &emsp;&emsp;✳ [qpp](https://github.com/xtaci/qpp) - [Quantum Permutation Pad](https://link.springer.com/article/10.1007/s11128-022-03557-y) implementation in golang. $\sigma = (1\ 2\ 3)(4\ 5)...(128\ 255)$ ([PQC](https://en.wikipedia.org/wiki/Post-quantum_cryptography)) \
 &emsp;&emsp;🐇 [hppk](https://github.com/xtaci/hppk) - A homomorphic polynomial Public Key [KEM](https://en.wikipedia.org/wiki/Key_encapsulation_mechanism) and Digital Signature([DS](https://en.wikipedia.org/wiki/Digital_signature)). ([PQC](https://en.wikipedia.org/wiki/Post-quantum_cryptography))\
 &emsp;&emsp;🪂 [dppk](https://github.com/xtaci/dppk) - A deterministic polynomial Public Key [KEM](https://en.wikipedia.org/wiki/Key_encapsulation_mechanism) algorithm over a prime [Galois Field](https://en.wikipedia.org/wiki/Finite_field) GF(p). ([PQC](https://en.wikipedia.org/wiki/Post-quantum_cryptography)) \
 &emsp;&emsp;🛡️ [safebox](https://github.com/xtaci/safebox) - A retro key management TUI tool for blockchain and others, one key to derive all.
 
-&emsp;🟩 _**未分類**_\
+&emsp;🟩 **未分類**\
 &emsp;&emsp;📫 [gonet](https://github.com/xtaci/gonet) - A fancy game server skeleton in golang.\
 &emsp;&emsp;🈳️ [budda](https://github.com/xtaci/buddha) - ☸️ My personal collection of Buddhist materials.📿 \
 &emsp;&emsp;📐 [algebra](https://github.com/xtaci/algebra) - My learning notes on $\mathnormal{algebra}$. Tribute to [Galois](https://en.wikipedia.org/wiki/%C3%89variste_Galois)￥￥\
