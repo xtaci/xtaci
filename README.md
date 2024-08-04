@@ -36,4 +36,4 @@ Starting MS-D[O](https://github.com/microsoft/MS-DOS)S... 👋🐈😻 にゃあ
 &emsp;[.]&emsp;&emsp;&emsp;&emsp;[..]&emsp;&emsp;&emsp;&emsp;[[UESTC.BEng]](https://www.uestc.edu.cn/)&emsp;&emsp;&emsp;&emsp;[[HKPolyU.MSc]](https://www.polyu.edu.hk/)&emsp;&emsp;&emsp;&emsp;[[🍵Coffee]](https://github.com/xtaci/xtaci/issues/2)
 
 **A:¥>TYPE MAIL.TXT** &lhblk; \
-; IMAP AT LIVE DOT COM 
+; IMAP [@] LIVE [DOT] COM 
