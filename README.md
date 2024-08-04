@@ -27,7 +27,8 @@ Starting MS-D[O](https://github.com/microsoft/MS-DOS)S... 👋🐈😻 にゃあ
 &emsp;&emsp;🈳️ [budda](https://github.com/xtaci/buddha) - ☸️ My personal collection of Buddhist materials.📿 \
 &emsp;&emsp;📐 [algebra](https://github.com/xtaci/algebra) - My learning notes on $\mathnormal{algebra}$. Tribute to [Galois](https://en.wikipedia.org/wiki/%C3%89variste_Galois)￥￥\
 &emsp;&emsp;⚛️ [algorithms](https://github.com/xtaci/algorithms) - $Algorithms$ and $Data$ structures in C++.\
-&emsp;&emsp;🤖 [navmesh](https://github.com/xtaci/navmesh) - Navigation mesh in golang.
+&emsp;&emsp;🤖 [navmesh](https://github.com/xtaci/navmesh) - Navigation mesh in golang.\
+&emsp;&emsp;📖 [notes](https://github.com/xtaci/notes) - Persona notes.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;0 File(s)&emsp;&emsp;&emsp;&emsp;&nbsp;0 bytes\
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;16 Dir(s)&emsp;&emsp;&emsp;&emsp;1024 bytes free
