@@ -1,4 +1,4 @@
-**0064[0](https://news.ycombinator.com/item?id=18120477) KB OK** &lhblk;\
+**[00](https://news.ycombinator.com/item?id=18120477)640KB OK** &lhblk;\
 Starting MS-DOS... 👋🐈😻 にゃあ \
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; $${\color{gray}\~🌹Hommage\ à\ Galois\ et\ Shannon🌹 \~}$$\
 **A:¥>DIR SRC** &lhblk;\
