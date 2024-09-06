@@ -1,6 +1,6 @@
 **[00](https://news.ycombinator.com/item?id=18120477)640KB OK** &lhblk;\
 Starting MS-DOS... 👋🐈😻 にゃあ \
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; $${\color{gray}\~🌹Hommage\ à\ Galois\ et\ Shannon🌹 \~}$$\
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 🌹Hommage à Galois et Shannon🌹 \
 **A:¥>DIR SRC** &lhblk;\
 &emsp;Volume in drive A is FU \
 &emsp;Volume Serial Number is 1982-[8086](https://en.wikipedia.org/wiki/Intel_8086) \
