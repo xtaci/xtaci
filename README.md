@@ -25,7 +25,7 @@ Starting MS-DOS... 👋🐈😻 にゃあ \
 &emsp;🟩 **未分類**\
 &emsp;&emsp;📫 [gonet](https://github.com/xtaci/gonet) - A fancy game server skeleton in golang.\
 &emsp;&emsp;🈳️ [budda](https://github.com/xtaci/buddha) - ☸️ My personal collection of Buddhist materials.📿 \
-&emsp;&emsp;📐 [algebra](https://github.com/xtaci/algebra) - My learning notes on $\mathnormal{algebra}$. Tribute to [Galois](https://en.wikipedia.org/wiki/%C3%89variste_Galois)￥￥\
+&emsp;&emsp;📐 [algebra](https://github.com/xtaci/algebra) - My learning notes on $\mathnormal{algebra}$. \
 &emsp;&emsp;⚛️ [algorithms](https://github.com/xtaci/algorithms) - $Algorithms$ and $Data$ structures in C++.\
 &emsp;&emsp;🤖 [navmesh](https://github.com/xtaci/navmesh) - Navigation mesh in golang.\
 &emsp;&emsp;♾️ [kidsmath](https://github.com/xtaci/kidsmath) - A tool to generate math puzzles for kids.
