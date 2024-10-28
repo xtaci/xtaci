@@ -1,5 +1,5 @@
 **[00](https://news.ycombinator.com/item?id=18120477)640KB OK** &lhblk;\
-Starting MS-DOS... 👋🐈😻 にゃあ \
+**Starting MS-DOS... 👋🐈😻 にゃあ** \
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 🌹Hommage à Galois et Shannon🌹 \
 **A:¥>DIR SRC** &lhblk;\
 &emsp;Volume in drive A is FU \
