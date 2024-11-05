@@ -1,7 +1,7 @@
 **00640KB [OK](https://news.ycombinator.com/item?id=18120477)** &lhblk;\
 **Starting MS-DOS... 👋🐈😻 にゃあ** \
 
-![image](https://github.com/user-attachments/assets/202bc0a3-2e3b-45fc-a3c1-728e7d3fc6f0)
+![image](https://github.com/user-attachments/assets/f483c06d-7497-4f05-85d4-62a17bc81a0b)
 
 **A:¥>DIR SRC** &lhblk;\
 &emsp;Volume in drive A is FU \
