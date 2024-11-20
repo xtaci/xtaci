@@ -21,7 +21,7 @@ Starting MS-DOS... &lhblk;
               `"""
 ```
 
-**A:¥>DIR SRC** &lhblk;\
+**A:\\>DIR SRC** &lhblk;\
 &emsp;Volume in drive A is FU \
 &emsp;Volume Serial Number is 1982-[8086](https://en.wikipedia.org/wiki/Intel_8086) \
 &emsp;Directory of **A:¥SRC**
@@ -53,8 +53,8 @@ Starting MS-DOS... &lhblk;
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;0 File(s)&emsp;&emsp;&emsp;&emsp;&nbsp;0 bytes\
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;16 Dir(s)&emsp;&emsp;&emsp;&emsp;1024 bytes free
 
-**A:¥>DIR/W EDU** &lhblk; \
+**A:\\>DIR/W EDU** &lhblk; \
 &emsp;[.]&emsp;&emsp;&emsp;&emsp;[..]&emsp;&emsp;&emsp;&emsp;[[UESTC.BEng]](https://www.sice.uestc.edu.cn/)&emsp;&emsp;&emsp;&emsp;[[HKPolyU.MSc]](https://www.polyu.edu.hk/feng/)&emsp;&emsp;&emsp;&emsp;[[🍵Donate]](https://github.com/xtaci/xtaci/issues/2)
 
-**A:¥>TYPE MAIL.TXT** &lhblk; \
+**A:\\>TYPE MAIL.TXT** &lhblk; \
 ; IMAP [@] LIVE [DOT] COM 
