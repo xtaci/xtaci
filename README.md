@@ -56,5 +56,7 @@ Starting MS-DOS... &lhblk;
 **A:\\>DIR/W EDU** &lhblk; \
 &emsp;[.]&emsp;&emsp;&emsp;&emsp;[..]&emsp;&emsp;&emsp;&emsp;[[UESTC.BEng]](https://www.sice.uestc.edu.cn/)&emsp;&emsp;&emsp;&emsp;[[HKPolyU.MSc]](https://www.polyu.edu.hk/feng/)&emsp;&emsp;&emsp;&emsp;[[🍵Donate]](https://github.com/xtaci/xtaci/issues/2)
 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2 Degrees(s)&emsp;&emsp;&emsp;&emsp;32 bytes
+
 **A:\\>TYPE MAIL.TXT** &lhblk; \
 ; IMAP [@] LIVE [DOT] COM 
