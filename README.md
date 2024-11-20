@@ -24,7 +24,7 @@ Starting MS-DOS... &lhblk;
 **A:\\>DIR SRC** &lhblk;\
 &emsp;Volume in drive A is FU \
 &emsp;Volume Serial Number is 1982-[8086](https://en.wikipedia.org/wiki/Intel_8086) \
-&emsp;Directory of **A:¥SRC**
+&emsp;Directory of **A:\\SRC**
 
 &emsp;🟥 **NETWORKING**\
 &emsp;&emsp;⚙️ [gaio](https://github.com/xtaci/gaio) - High performance minimalism async-io([proactor](https://en.wikipedia.org/wiki/Proactor_pattern)) networking for Golang.\
