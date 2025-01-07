@@ -33,7 +33,7 @@ Starting MS-DOS... &lhblk;
 &emsp;&emsp;🌟 [libkcp](https://github.com/xtaci/libkcp) - A lightweighted C++ client library to talk to kcp-go.\
 &emsp;&emsp;⚡ [kcptun](https://github.com/xtaci/kcptun) - A quantum-safe secure tunnel based on [QPP](https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-022-00145-y), [KCP](https://github.com/xtaci/kcp-go), [FEC](https://en.wikipedia.org/wiki/Reed%E2%80%93Solomon_error_correction), and [N:M multiplexing](https://github.com/xtaci/smux).\
 &emsp;&emsp;🤝 [bdls](https://github.com/xtaci/bdls) - Initial PoC implementation of BDLS [BFT Consensus](https://en.wikipedia.org/wiki/Byzantine_fault) algorithm, now integrated in [hyperledger](https://github.com/hyperledger-labs/bdls) .\
-&emsp;&emsp;🦗 [grasshopper](https://github.com/xtaci/grasshopper) - A secure chained relayer for UDP.\
+&emsp;&emsp;🦗 [grasshopper](https://github.com/xtaci/grasshopper) - A secure chained relayer for UDP based on [gaio](https://github.com/xtaci/gaio).\
 &emsp;&emsp;🐕 [lossyconn](https://github.com/xtaci/lossyconn) - Lossy connection simulator.\
 &emsp;&emsp;😄 [tcpraw](https://github.com/xtaci/tcpraw) - Sending packets through TCP.
 
