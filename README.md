@@ -43,7 +43,7 @@ Starting MS-DOS... &lhblk;
 &emsp;&emsp;🪂 [dppk](https://github.com/xtaci/dppk) - A deterministic polynomial Public Key KEM algorithm over a prime [Galois Field](https://en.wikipedia.org/wiki/Finite_field) GF(p). (PQC) \
 &emsp;&emsp;🛡️ [safebox](https://github.com/xtaci/safebox) - A retro key management TUI tool for blockchain and others, one key to derive all.
 
-&emsp;🟩 **未分類**\
+&emsp;🟩 **UNCATEGORIZED**\
 &emsp;&emsp;📫 [gonet](https://github.com/xtaci/gonet) - A fancy game server skeleton in golang.\
 &emsp;&emsp;🈳️ [budda](https://github.com/xtaci/buddha) - ☸️ My personal collection of Buddhist materials.📿 \
 &emsp;&emsp;📐 [algebra](https://github.com/xtaci/algebra) - My learning notes on $\mathnormal{algebra}$. \
