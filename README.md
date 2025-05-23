@@ -1,5 +1,5 @@
-**00640KB [OK](https://news.ycombinator.com/item?id=18120477)** &lhblk;\
-Starting MS-DOS... &lhblk;
+00640KB [OK](https://news.ycombinator.com/item?id=18120477)** &lhblk;\
+$${\color{lightgreen}Starting \space MSDOS...&lhblk;}$$ 
 
 ```sh
        _,met$$$$$gg.          xtaci@DESKTOP-7FL7RC4
