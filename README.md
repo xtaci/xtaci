@@ -1,5 +1,5 @@
-00640KB **[OK](https://news.ycombinator.com/item?id=18120477)** &lhblk;\
-$${\color{lightgreen}Starting \space MSDOS...&lhblk;}$$ 
+$${\color{lightgreen}00640KB}$$  **[OK](https://news.ycombinator.com/item?id=18120477)** &lhblk;\
+$${\color{lightgreen}Starting \space MS{\text -}DOS...&lhblk;}$$ 
 
 ```diff
 +       _,met$$$$$gg.          xtaci@DESKTOP-7FL7RC4
