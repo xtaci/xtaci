@@ -1,4 +1,4 @@
-00640KB [OK](https://news.ycombinator.com/item?id=18120477)** &lhblk;\
+00640KB **[OK](https://news.ycombinator.com/item?id=18120477)** &lhblk;\
 $${\color{lightgreen}Starting \space MSDOS...&lhblk;}$$ 
 
 ```sh
