@@ -1,6 +1,7 @@
 ```diff
 ! RAM    OK ▄
 ! ROM    OK ▄
+
 + Starting MS-DOS... ▄
 +
 +       _,met$$$$$gg.          xtaci@DESKTOP-7FL7RC4
@@ -20,7 +21,7 @@
 +       `Y$$b.
 +          `"Y$b._
 +              `"""
-+
+
 ```
 
 **A:\\>DIR SRC** &lhblk;\
