@@ -1,7 +1,8 @@
 ```diff
-+ 00640KB OK ▄
+! RAM    OK ▄
+! ROM    OK ▄
 + Starting MS-DOS... ▄
-#
++
 +       _,met$$$$$gg.          xtaci@DESKTOP-7FL7RC4
 +    ,g$$$$$$$$$$$$$$$P.       ---------------------
 +  ,g$$P"     """Y$$.".        OS: Debian GNU/Linux 12 (bookworm) on Windows 10 x86_64
