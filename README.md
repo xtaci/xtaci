@@ -47,7 +47,7 @@
 
 &emsp;🟩 **UNCATEGORIZED**\
 &emsp;&emsp;📫 [gonet](https://github.com/xtaci/gonet) - A fancy game server skeleton in golang.\
-&emsp;&emsp;🈳️ [budda](https://github.com/xtaci/buddha) - ☸️ My personal collection of Buddhist materials.📿 \
+&emsp;&emsp;🈳️ [budda](https://github.com/xtaci/buddha) - ☸️ My personal collection of Buddhism materials.📿 \
 &emsp;&emsp;📐 [algebra](https://github.com/xtaci/algebra) - My learning notes on $\mathnormal{algebra}$. \
 &emsp;&emsp;⚛️ [algorithms](https://github.com/xtaci/algorithms) - $Algorithms$ and $Data$ structures in C++.\
 &emsp;&emsp;🤖 [navmesh](https://github.com/xtaci/navmesh) - Navigation mesh in golang.\
