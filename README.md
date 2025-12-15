@@ -40,6 +40,7 @@
 &emsp;&emsp;😄 [tcpraw](https://github.com/xtaci/tcpraw) - Sending packets through TCP.
 
 &emsp;🟦 **CRYPTOGRAPHY**❤️\
+&emsp;&emsp;🐚 [qsh](https://github.com/xtaci/qsh) - A quantum-resistant remote shell built with QPP(encryption) and HPPK(authentication). \
 &emsp;&emsp;✳ [qpp](https://github.com/xtaci/qpp) - [Quantum Permutation Pad](https://link.springer.com/article/10.1007/s11128-022-03557-y) implementation in golang. $\sigma = (1\ 2\ 3)(4\ 5)...(128\ 255)$ ([PQC](https://en.wikipedia.org/wiki/Post-quantum_cryptography)) \
 &emsp;&emsp;🐇 [hppk](https://github.com/xtaci/hppk) - A homomorphic polynomial Public Key [KEM](https://en.wikipedia.org/wiki/Key_encapsulation_mechanism) and Digital Signature([DS](https://en.wikipedia.org/wiki/Digital_signature)). (PQC) \
 &emsp;&emsp;🪂 [dppk](https://github.com/xtaci/dppk) - A deterministic polynomial Public Key KEM algorithm over a prime [Galois Field](https://en.wikipedia.org/wiki/Finite_field) GF(p). (PQC) \
