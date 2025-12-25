@@ -1,26 +1,9 @@
 ```diff
-! RAM    OK ▄                                                                                     
-! ROM    OK ▄                                                                                     
-                   
-+ Starting MS-DOS... ▄                                                                            
-+                                                                                                 
-+       _,met$$$$$gg.          xtaci@DESKTOP-7FL7RC4                                              
-+    ,g$$$$$$$$$$$$$$$P.       ---------------------                                              
-+  ,g$$P"     """Y$$.".        OS: Debian GNU/Linux 12 (bookworm) on Windows 10 x86_64            
-+ ,$$P'              `$$$.     Kernel: 5.15.153.1-microsoft-standard-WSL2                         
-+',$$P       ,ggs.     `$$b:   Uptime: 0 hours, 1 mins                                            
-+`d$$'     ,$P"'   .    $$$    Packages: 437 (dpkg)                                               
-+ $$P      d$'     ,    $$P    Shell: zsh 5.9                                                     
-+ $$:      $$.   -    ,d$$'    Terminal: Windows Terminal                                         
-+ $$;      Y$b._   _,d$P'      CPU: AMD Ryzen 9 5950X (32) @ 3.393GHz                             
-+ Y$$.    `.`"Y$$$$P"'         GPU: 3e25:00:00.0 Microsoft Corporation Basic Render Driver        
-+ `$$b      "-.__              Memory: 796MiB / 32049MiB                                          
-+  `Y$$                                                                                           
-+   `Y$$.                                                                                         
-+     `$$b.                                                                                       
-+       `Y$$b.                                                                                    
-+          `"Y$b._                                                                                
-+              `"""                                                                               
+! RAM    OK ▄
+! ROM    OK ▄
+
++ Starting MS-DOS... ▄
+
 ```
 
 **A:\\>DIR SRC** &lhblk;\
