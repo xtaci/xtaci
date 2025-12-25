@@ -1,7 +1,3 @@
-```diff
-! RAM    OK ▄
-! ROM    OK ▄
-```
 **Starting MS-DOS... ▄**
 
 **A:\\>DIR SRC** &lhblk;\
