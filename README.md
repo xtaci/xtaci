@@ -1,10 +1,8 @@
 ```diff
 ! RAM    OK ▄
 ! ROM    OK ▄
-
-+ Starting MS-DOS... ▄
-
 ```
+**Starting MS-DOS... ▄**
 
 **A:\\>DIR SRC** &lhblk;\
 &emsp;Volume in drive A is FU \
