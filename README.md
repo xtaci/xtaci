@@ -6,31 +6,31 @@
 &emsp;Volume Serial Number is 1982-[8086](https://en.wikipedia.org/wiki/Intel_8086) \
 &emsp;Directory of **A:\\SRC**
 
-&emsp;🟥 **NETWORKING**\
-&emsp;&emsp;⚙️ [gaio](https://github.com/xtaci/gaio) - High-performance, minimalist async-io ([proactor](https://en.wikipedia.org/wiki/Proactor_pattern)) networking for Golang.\
-&emsp;&emsp;💬 [smux](https://github.com/xtaci/smux) - A [stream multiplexing](https://en.wikipedia.org/wiki/Multiplexing) library for Golang with minimal memory usage.\
-&emsp;&emsp;👥 [kcp-go](https://github.com/xtaci/kcp-go) - A crypto-secure _**Reliable-UDP**_ library for Golang with FEC support.\
-&emsp;&emsp;🌟 [libkcp](https://github.com/xtaci/libkcp) - A lightweight C++ client library for communicating with kcp-go.\
-&emsp;&emsp;⚡ [kcptun](https://github.com/xtaci/kcptun) - A quantum-safe, secure tunnel built on [QPP](https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-022-00145-y), [KCP](https://github.com/xtaci/kcp-go), [FEC](https://en.wikipedia.org/wiki/Reed%E2%80%93Solomon_error_correction), and [multiplexing](https://github.com/xtaci/smux).\
-&emsp;&emsp;🦗 [grasshopper](https://github.com/xtaci/grasshopper) - A secure, chained UDP relayer based on [gaio](https://github.com/xtaci/gaio).\
-&emsp;&emsp;🤝 [bdls](https://github.com/xtaci/bdls) - Initial PoC implementation of the BDLS [BFT Consensus](https://en.wikipedia.org/wiki/Byzantine_fault) algorithm, now integrated into [hyperledger](https://github.com/hyperledger-labs/bdls).\
-&emsp;&emsp;🐕 [lossyconn](https://github.com/xtaci/lossyconn) - A lossy connection simulator.\
-&emsp;&emsp;😄 [tcpraw](https://github.com/xtaci/tcpraw) - Send packets directly over TCP.
+- 🟥 **NETWORKING**
+  - ⚙️ [gaio](https://github.com/xtaci/gaio) - High-performance, minimalist async-io ([proactor](https://en.wikipedia.org/wiki/Proactor_pattern)) networking for Golang.
+  - 💬 [smux](https://github.com/xtaci/smux) - A [stream multiplexing](https://en.wikipedia.org/wiki/Multiplexing) library for Golang with minimal memory usage.
+  - 👥 [kcp-go](https://github.com/xtaci/kcp-go) - A crypto-secure _**Reliable-UDP**_ library for Golang with FEC support.
+  - 🌟 [libkcp](https://github.com/xtaci/libkcp) - A lightweight C++ client library for communicating with kcp-go.
+  - ⚡ [kcptun](https://github.com/xtaci/kcptun) - A quantum-safe, secure tunnel built on [QPP](https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-022-00145-y), [KCP](https://github.com/xtaci/kcp-go), [FEC](https://en.wikipedia.org/wiki/Reed%E2%80%93Solomon_error_correction), and [multiplexing](https://github.com/xtaci/smux).
+  - 🦗 [grasshopper](https://github.com/xtaci/grasshopper) - A secure, chained UDP relayer based on [gaio](https://github.com/xtaci/gaio).
+  - 🤝 [bdls](https://github.com/xtaci/bdls) - Initial PoC implementation of the BDLS [BFT Consensus](https://en.wikipedia.org/wiki/Byzantine_fault) algorithm, now integrated into [hyperledger](https://github.com/hyperledger-labs/bdls).
+  - 🐕 [lossyconn](https://github.com/xtaci/lossyconn) - A lossy connection simulator.
+  - 😄 [tcpraw](https://github.com/xtaci/tcpraw) - Send packets directly over TCP.
 
-&emsp;🟦 **CRYPTOGRAPHY**❤️\
-&emsp;&emsp;🐚 [qsh](https://github.com/xtaci/qsh) - A quantum-resistant remote shell built on QPP (encryption), HPPK (authentication), and [HMAC](https://en.wikipedia.org/wiki/HMAC) (authenticity).\
-&emsp;&emsp;✳ [qpp](https://github.com/xtaci/qpp) - [Quantum Permutation Pad](https://link.springer.com/article/10.1007/s11128-022-03557-y) implementation in Golang. $\sigma = (1\ 2\ 3)(4\ 5)...(128\ 255)$ ([PQC](https://en.wikipedia.org/wiki/Post-quantum_cryptography))\
-&emsp;&emsp;🐇 [hppk](https://github.com/xtaci/hppk) - A homomorphic polynomial public key [KEM](https://en.wikipedia.org/wiki/Key_encapsulation_mechanism) and digital signature ([DS](https://en.wikipedia.org/wiki/Digital_signature)) scheme. (PQC)\
-&emsp;&emsp;🪂 [dppk](https://github.com/xtaci/dppk) - A deterministic polynomial public key KEM algorithm over a prime [Galois Field](https://en.wikipedia.org/wiki/Finite_field) GF(p). (PQC)\
-&emsp;&emsp;🛡️ [safebox](https://github.com/xtaci/safebox) - A retro key management TUI tool for blockchain and more; one key to derive them all.
+- 🟦 **CRYPTOGRAPHY**❤️
+  - 🐚 [qsh](https://github.com/xtaci/qsh) - A quantum-resistant remote shell built on QPP (encryption), HPPK (authentication), and [HMAC](https://en.wikipedia.org/wiki/HMAC) (authenticity).
+  - ✳ [qpp](https://github.com/xtaci/qpp) - [Quantum Permutation Pad](https://link.springer.com/article/10.1007/s11128-022-03557-y) implementation in Golang. $\sigma = (1\ 2\ 3)(4\ 5)...(128\ 255)$ ([PQC](https://en.wikipedia.org/wiki/Post-quantum_cryptography))
+  - 🐇 [hppk](https://github.com/xtaci/hppk) - A homomorphic polynomial public key [KEM](https://en.wikipedia.org/wiki/Key_encapsulation_mechanism) and digital signature ([DS](https://en.wikipedia.org/wiki/Digital_signature)) scheme. (PQC)
+  - 🪂 [dppk](https://github.com/xtaci/dppk) - A deterministic polynomial public key KEM algorithm over a prime [Galois Field](https://en.wikipedia.org/wiki/Finite_field) GF(p). (PQC)
+  - 🛡️ [safebox](https://github.com/xtaci/safebox) - A retro key management TUI tool for blockchain and more; one key to derive them all.
 
-&emsp;🟩 **OTHER**\
-&emsp;&emsp;📫 [gonet](https://github.com/xtaci/gonet) - A feature-rich game server skeleton in Golang.\
-&emsp;&emsp;🈳️ [budda](https://github.com/xtaci/buddha) - ☸️ My personal collection of Buddhist materials.📿\
-&emsp;&emsp;📐 [algebra](https://github.com/xtaci/algebra) - My learning notes on $\mathnormal{algebra}$.\
-&emsp;&emsp;⚛️ [algorithms](https://github.com/xtaci/algorithms) - $Algorithms$ and $Data$ structures in C++.\
-&emsp;&emsp;🤖 [navmesh](https://github.com/xtaci/navmesh) - Navigation mesh implementation in Golang.\
-&emsp;&emsp;♾️ [kidsmath](https://github.com/xtaci/kidsmath) - A tool for generating math puzzles for kids.
+- 🟩 **OTHER**
+  - 📫 [gonet](https://github.com/xtaci/gonet) - A feature-rich game server skeleton in Golang.
+  - 🈳️ [budda](https://github.com/xtaci/buddha) - ☸️ My personal collection of Buddhist materials.📿
+  - 📐 [algebra](https://github.com/xtaci/algebra) - My learning notes on $\mathnormal{algebra}$.
+  - ⚛️ [algorithms](https://github.com/xtaci/algorithms) - $Algorithms$ and $Data$ structures in C++.
+  - 🤖 [navmesh](https://github.com/xtaci/navmesh) - Navigation mesh implementation in Golang.
+  - ♾️ [kidsmath](https://github.com/xtaci/kidsmath) - A tool for generating math puzzles for kids.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;0 File(s)&emsp;&emsp;&emsp;&emsp;&nbsp;0 bytes\
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;16 Dir(s)&emsp;&emsp;&emsp;&emsp;1024 bytes free
