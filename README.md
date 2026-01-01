@@ -6,7 +6,7 @@
 &emsp;Volume Serial Number is 1982-[8086](https://en.wikipedia.org/wiki/Intel_8086) \
 &emsp;Directory of **A:\\SRC**
 
-- 🟥 **NETWORKING**
+- 🟥 **NETWORKING**🕸️
   - ⚙️ [gaio](https://github.com/xtaci/gaio) - High-performance, minimalist async-io ([proactor](https://en.wikipedia.org/wiki/Proactor_pattern)) networking for Golang.
   - 💬 [smux](https://github.com/xtaci/smux) - A [stream multiplexing](https://en.wikipedia.org/wiki/Multiplexing) library for Golang with minimal memory usage.
   - 👥 [kcp-go](https://github.com/xtaci/kcp-go) - A crypto-secure _**Reliable-UDP**_ library for Golang with FEC support.
@@ -17,7 +17,7 @@
   - 🐕 [lossyconn](https://github.com/xtaci/lossyconn) - A lossy connection simulator.
   - 😄 [tcpraw](https://github.com/xtaci/tcpraw) - Send packets directly over TCP.
 
-- 🟦 **CRYPTOGRAPHY**❤️
+- 🟦 **CRYPTOGRAPHY**🔑
   - 🐚 [qsh](https://github.com/xtaci/qsh) - A quantum-resistant remote shell built on QPP (encryption), HPPK (authentication), and [HMAC](https://en.wikipedia.org/wiki/HMAC) (authenticity).
   - ✳ [qpp](https://github.com/xtaci/qpp) - [Quantum Permutation Pad](https://link.springer.com/article/10.1007/s11128-022-03557-y) implementation in Golang. $\sigma = (1\ 2\ 3)(4\ 5)...(128\ 255)$ ([PQC](https://en.wikipedia.org/wiki/Post-quantum_cryptography))
   - 🐇 [hppk](https://github.com/xtaci/hppk) - A homomorphic polynomial public key [KEM](https://en.wikipedia.org/wiki/Key_encapsulation_mechanism) and digital signature ([DS](https://en.wikipedia.org/wiki/Digital_signature)) scheme. (PQC)
