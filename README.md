@@ -26,6 +26,7 @@
 
 - 🟩 **OTHER**
   - 📫 [gonet](https://github.com/xtaci/gonet) - A feature-rich game server skeleton in Golang.
+  - 🎫 [cticker](https://github.com/xtaci/cticker) - A TUI-based cryptocurrency ticker(in pure C).
   - 🈳️ [budda](https://github.com/xtaci/buddha) - ☸️ My personal collection of Buddhist materials.📿
   - 📐 [algebra](https://github.com/xtaci/algebra) - My learning notes on $\mathnormal{algebra}$.
   - ⚛️ [algorithms](https://github.com/xtaci/algorithms) - $Algorithms$ and $Data$ structures in C++.
