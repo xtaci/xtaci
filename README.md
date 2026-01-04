@@ -14,8 +14,6 @@
   - ⚡ [kcptun](https://github.com/xtaci/kcptun) - A quantum-safe, secure tunnel built on [QPP](https://epjquantumtechnology.springeropen.com/articles/10.1140/epjqt/s40507-022-00145-y), [KCP](https://github.com/xtaci/kcp-go), [FEC](https://en.wikipedia.org/wiki/Reed%E2%80%93Solomon_error_correction), and [multiplexing](https://github.com/xtaci/smux).
   - 🦗 [grasshopper](https://github.com/xtaci/grasshopper) - A secure, chained UDP relayer based on [gaio](https://github.com/xtaci/gaio).
   - 🤝 [bdls](https://github.com/xtaci/bdls) - Initial PoC implementation of the BDLS [BFT Consensus](https://en.wikipedia.org/wiki/Byzantine_fault) algorithm, now integrated into [hyperledger](https://github.com/hyperledger-labs/bdls).
-  - 🐕 [lossyconn](https://github.com/xtaci/lossyconn) - A lossy connection simulator.
-  - 😄 [tcpraw](https://github.com/xtaci/tcpraw) - Send packets directly over TCP.
 
 - 🟦 **CRYPTOGRAPHY**
   - 🐚 [qsh](https://github.com/xtaci/qsh) - A quantum-resistant remote shell built on QPP (encryption), HPPK (authentication), and [HMAC](https://en.wikipedia.org/wiki/HMAC) (authenticity).
