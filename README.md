@@ -28,7 +28,6 @@
   - 🎫 [cticker](https://github.com/xtaci/cticker) - TUI-based retro cryptocurrency ticker(in pure C).
   - 🈳️ [budda](https://github.com/xtaci/buddha) - ☸️ My personal collection of Buddhist materials.📿
   - 📐 [algebra](https://github.com/xtaci/algebra) - My learning notes on $\mathnormal{algebra}$.
-  - 🤖 [navmesh](https://github.com/xtaci/navmesh) - Navigation mesh implementation in Golang.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;0 File(s)&emsp;&emsp;&emsp;&emsp;&nbsp;0 bytes\
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;18 Dir(s)&emsp;&emsp;&emsp;&emsp;1024 bytes free
