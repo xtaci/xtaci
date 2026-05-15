@@ -19,7 +19,6 @@
   - ✳ [qpp](https://github.com/xtaci/qpp) - [Quantum Permutation Pad](https://link.springer.com/article/10.1007/s11128-022-03557-y) implementation in Golang. $\sigma = (1\ 2\ 3)(4\ 5)...(128\ 255)$ ([PQC](https://en.wikipedia.org/wiki/Post-quantum_cryptography))
   - 🐇 [hppk](https://github.com/xtaci/hppk) - Homomorphic polynomial public key [KEM](https://en.wikipedia.org/wiki/Key_encapsulation_mechanism) and digital signature ([DS](https://en.wikipedia.org/wiki/Digital_signature)) scheme. (PQC)
   - 🪂 [dppk](https://github.com/xtaci/dppk) - Deterministic polynomial public key KEM algorithm over a prime [Galois Field](https://en.wikipedia.org/wiki/Finite_field) GF(p). (PQC)
-  - 🛡️ [safebox](https://github.com/xtaci/safebox) - Retro key management TUI tool for blockchain and more; one key to derive them all.
 
 - 🟩 **OTHER**
   - ⚛️ [algorithms](https://github.com/xtaci/algorithms) - $Algorithms$ and $Data$ structures in C++.
