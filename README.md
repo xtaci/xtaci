@@ -12,6 +12,7 @@
   - 👥 [kcp-go](https://github.com/xtaci/kcp-go) - Crypto-secure _**Reliable-UDP**_ library for Golang with FEC support.
   - 🌟 [libkcp](https://github.com/xtaci/libkcp) - Lightweight C++ client library for communicating with kcp-go.
   - 🦗 [grasshopper](https://github.com/xtaci/grasshopper) - Secure, chained UDP relayer based on [gaio](https://github.com/xtaci/gaio).
+  - 📉 [lossyconn](https://github.com/xtaci/lossyconn) - A network simulator for golang.
 
 - 🟦 **CRYPTOGRAPHY**
   - 🐚 [qsh](https://github.com/xtaci/qsh) - Quantum-resistant remote shell built on QPP (encryption), HPPK (authentication), and [HMAC](https://en.wikipedia.org/wiki/HMAC) (authenticity).
