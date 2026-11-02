@@ -23,7 +23,7 @@
 - 🟩 **OTHER**
   - ⚛️ [algorithms](https://github.com/xtaci/algorithms) - $Algorithms$ and $Data$ structures in C++.
   - 📫 [gonet](https://github.com/xtaci/gonet) - Feature-rich game server skeleton in Golang.
-  - 🎫 [cticker](https://github.com/xtaci/cticker) - TUI-based retro cryptocurrency ticker(in pure C).
+  - 🎫 [cticker](https://github.com/xtaci/cticker) - TUI-based retro cryptocurrency ticker(in C99).
   - 🈳️ [budda](https://github.com/xtaci/buddha) - ☸️ My personal collection of Buddhist materials.📿
   - 📐 [algebra](https://github.com/xtaci/algebra) - My learning notes on $\mathnormal{algebra}$.
   - 🤖 [navmesh](https://github.com/xtaci/navmesh) - Navigation mesh implementation in Golang.
