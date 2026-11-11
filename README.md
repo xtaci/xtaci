@@ -6,7 +6,7 @@
 &emsp;Volume Serial Number is 1982-[8086](https://en.wikipedia.org/wiki/Intel_8086) \
 &emsp;Directory of **A:\\SRC**
 
-- 🟥 **NETWORKING**
+- 🟥 **COMMUNICATION**
   - ⚙️ [gaio](https://github.com/xtaci/gaio) - A high-performance, minimalist async I/O networking library for Go, based on the [proactor pattern](https://en.wikipedia.org/wiki/Proactor_pattern).
   - 🔀 [smux](https://github.com/xtaci/smux) - A low-memory [stream multiplexing](https://en.wikipedia.org/wiki/Multiplexing) library for Go.
   - 📡 [kcp-go](https://github.com/xtaci/kcp-go) - A cryptographically secure _**Reliable-UDP**_ library for Go with FEC support.
