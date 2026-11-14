@@ -10,7 +10,7 @@
   - ⚙️ [gaio](https://github.com/xtaci/gaio) - A high-performance, minimalist async I/O networking library for Go, based on the [proactor pattern](https://en.wikipedia.org/wiki/Proactor_pattern).
   - 🔀 [smux](https://github.com/xtaci/smux) - A low-memory [stream multiplexing](https://en.wikipedia.org/wiki/Multiplexing) library for Go.
   - 📡 [kcp-go](https://github.com/xtaci/kcp-go) - A cryptographically secure _**Reliable-UDP**_ library for Go with FEC support.
-  - 🔗 [libkcp](https://github.com/xtaci/libkcp) - A lightweight C++ client library for communicating with kcp-go.
+  - 🔗 [libkcp](https://github.com/xtaci/libkcp) - A lightweight C client library for communicating with kcp-go.
   - 🦗 [grasshopper](https://github.com/xtaci/grasshopper) - A secure, chained UDP relay built on [gaio](https://github.com/xtaci/gaio).
   - 📉 [lossyconn](https://github.com/xtaci/lossyconn) - A network simulator for Go.
 
