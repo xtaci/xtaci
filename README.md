@@ -39,7 +39,7 @@
 **A:\\>SPONSOR.EXE** &lhblk;\
 🛠️ I build and maintain **open-source tools** for **Go networking** and **cryptography**—from high-performance async I/O and reliable UDP to post-quantum cryptography. 🔐
 
-If these projects help you build **faster, more secure, or more resilient systems**, please consider **sponsoring my work** 💙. Your support helps me spend more time maintaining existing projects and exploring new ideas. *Every contribution is appreciated.*
+If these projects help you build **faster, more secure, or more resilient systems**, please consider **sponsoring my work** ❤️. Your support helps me spend more time maintaining existing projects and exploring new ideas. *Every contribution is appreciated.*
 
 **A:\\>TYPE MAIL.TXT** &lhblk;\
 ; IMAP [@] LIVE [DOT] COM 
